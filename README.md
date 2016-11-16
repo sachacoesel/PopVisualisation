@@ -13,7 +13,7 @@ For example, two datasets have been provided. It requires users to use data wher
 2. continuous measurements salinity, Temp, irradiance, chl fluorescence, time/date, lat/lon
 
 ###Users:
--scientist
+- scientist
 
 What questions need to be answered:
 1. providing interactive visualisation tools for data exploration
