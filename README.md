@@ -1,8 +1,18 @@
-Data input
+#PopVis
+The tool we will develop will help users to explore phytoplankton population abundances over a transect in an interactive way. 
+
+
+###Organization of the project
+The project has the following structure:
+PopVis
+
+###Data input
+For example, two datasets have been provided. It requires users to use data where time and geographical information are present. 
+ 
 1) continuous flowcytometer data cruise 2013 : cell abundance, time/date, lat/lon
 2) continuous measurements salinity, Temp, irradiance, chl fluorescence, time/date, lat/lon
 
-Users:
+###Users:
 -scientist
 
 What questions need to be answered:
