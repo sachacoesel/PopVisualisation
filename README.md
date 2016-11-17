@@ -2,7 +2,7 @@
 This tool will help users to explore phytoplankton population abundances over a transect in an interactive way. 
 
 ###Data input
-Two datasets have been provided (see also [Data.md](https://github.com/sachacoesel/PopVisualisation/blob/master/DATA.md).
+Two datasets have been provided (see also [DATA.md](https://github.com/sachacoesel/PopVisualisation/blob/master/DATA.md).)
 
 1. continuous flowcytometer data cruise 2013 : cell abundance, time/date, lat/lon
 2. continuous measurements salinity, Temp, irradiance, chl fluorescence, time/date, lat/lon
