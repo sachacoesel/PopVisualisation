@@ -4,8 +4,9 @@ The data consists of continuous flowcytometric measurements of photosynthetic pi
 
 This package comes with two data files.
 
-1. SeaFlow-clean-Oct2016.csv
+1). SeaFlow-clean-Oct2016.csv
 
+Specifics:
 - cruise	(code of the specific cruise)
 - file	(name of the seaflow file)
 - time	(date time (GMT))
@@ -21,8 +22,9 @@ This package comes with two data files.
 - chl_small	(chlorophyll fluorescence)
 - 'pe'	()
 
-2. sfl.csv
+2.) sfl.csv
 
+specifics
 - cruise	(code of the specific cruise)
 - file	(name of the seaflow file)
 - time	(date time (GMT))
