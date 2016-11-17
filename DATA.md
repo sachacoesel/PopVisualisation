@@ -1,10 +1,11 @@
 # Dataset description
 
-This package comes with two data files.
-1. SeaFlow-clean-Oct2016.csv
 The data consists of continuous flowcytometric measurements of photosynthetic pico-eukaryotes using the [SeaFlow](http://armbrustlab.ocean.washington.edu/resources/seaflow) cytometer data obtained during the 2013 deepDOM cruise covering a transect from Uruguay to the Amazon.
 
-In specific, the dataframe consists of the following data 
+This package comes with two data files.
+
+1. SeaFlow-clean-Oct2016.csv
+
 - cruise	(code of the specific cruise)
 - file	(name of the seaflow file)
 - time	(date time (GMT))
@@ -21,6 +22,7 @@ In specific, the dataframe consists of the following data
 - 'pe'	()
 
 2. sfl.csv
+
 - cruise	(code of the specific cruise)
 - file	(name of the seaflow file)
 - time	(date time (GMT))
